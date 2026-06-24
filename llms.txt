@@ -1,4 +1,4 @@
-# Noche de seda
+# Noche de seda, Vol. 3
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Noche de seda |
+| **Title** | Noche de seda, Vol. 3 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-seda/) |
+| **Get License** | [Music Rights & Licensing for Noche de seda, Vol. 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tu piel brillando bajo la luna llena
+> Con ese flow salvaje que rompe mis esquemas
+> Un roce lento y todo el club ya nos observa
+> Déjate llevar en mi noche de seda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ff62d2f1d6d13ac3fb484bb0e8ad4bb6e2b8df0a7c70f135135d5fa38adcb8c2` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
